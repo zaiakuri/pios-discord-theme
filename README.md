@@ -59,9 +59,9 @@ Cosy mode uses regular Discord layout, while Compact mode has piOS-style boxes.
 
 - **Discord setting:** `User Settings > App Settings > Appearance > Message Display`.
 
-|Cosy|Compact|
-|-|-|
-|![Cosy](https://user-images.githubusercontent.com/29710355/154400330-eb4434ac-1716-4c3f-bca1-8b6ba509e9c3.png)|![Compact](https://user-images.githubusercontent.com/29710355/154400528-66fea4d8-53c1-4178-91f5-88729bde0e81.png)|
+| Cosy                                                                                                           | Compact                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| ![Cosy](https://user-images.githubusercontent.com/29710355/154400330-eb4434ac-1716-4c3f-bca1-8b6ba509e9c3.png) | ![Compact](https://user-images.githubusercontent.com/29710355/154400528-66fea4d8-53c1-4178-91f5-88729bde0e81.png) |
 
 ### Glow intensity
 Brightness of text glow and status indicator glow. 
@@ -69,9 +69,9 @@ Brightness of text glow and status indicator glow.
 - **Theme setting:** change value of `--glow-intensity` to a number between 0 and 1.
 - **Default value:** `1` (100% brightness).
 
-| 1 (full glow) | 0 (no glow) |
-|-|-|
-| ![image](https://user-images.githubusercontent.com/29710355/165006236-eeddba57-b7d6-4bd6-81af-1f649c5000dc.png) ![image](https://user-images.githubusercontent.com/29710355/165006394-3f6b4379-a35f-4506-a855-6a86d9e1f142.png) | ![image](https://user-images.githubusercontent.com/29710355/165006329-896ad462-f94d-447a-acd6-75cb0573cae4.png) ![image](https://user-images.githubusercontent.com/29710355/165006379-8c60fedd-7f42-4f70-a134-33da1a5211e4.png)
+| 1 (full glow)                                                                                                                                                                                                                   | 0 (no glow)                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![image](https://user-images.githubusercontent.com/29710355/165006236-eeddba57-b7d6-4bd6-81af-1f649c5000dc.png) ![image](https://user-images.githubusercontent.com/29710355/165006394-3f6b4379-a35f-4506-a855-6a86d9e1f142.png) | ![image](https://user-images.githubusercontent.com/29710355/165006329-896ad462-f94d-447a-acd6-75cb0573cae4.png) ![image](https://user-images.githubusercontent.com/29710355/165006379-8c60fedd-7f42-4f70-a134-33da1a5211e4.png) |
 
 ### Compact message spacing
 Affects spacing between messages in Compact mode (see above).
@@ -79,9 +79,9 @@ Affects spacing between messages in Compact mode (see above).
 - **Theme setting:** change value of `--compact-message-spacing` to any positive or zero number.
 - **Default value:** `1` (100% of default spacing).
 
-|1 (default)|2.5|
-|-|-|
-|![Messages are relatively close together.](https://user-images.githubusercontent.com/29710355/162553148-11c5bf02-7b9d-4d46-a8b6-bba509759452.png)|![Spacing between messages is much increased.](https://user-images.githubusercontent.com/29710355/162553169-ef3c2230-5527-4736-9c7f-a4ef1d1f51f1.png)
+| 1 (default)                                                                                                                                       | 2.5                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Messages are relatively close together.](https://user-images.githubusercontent.com/29710355/162553148-11c5bf02-7b9d-4d46-a8b6-bba509759452.png) | ![Spacing between messages is much increased.](https://user-images.githubusercontent.com/29710355/162553169-ef3c2230-5527-4736-9c7f-a4ef1d1f51f1.png) |
 
 ### Colour accents
 Affects colour scheme used throughout the theme.
@@ -89,9 +89,9 @@ Affects colour scheme used throughout the theme.
 - **Theme setting:** change value of `--accent-color` to any number. Use a HSL colour picker (eg. [React Color](https://casesandberg.github.io/react-color/)) and copy the H value.
 - **Default value:** `0` (red).
 
-|Color picker|Result|
-|-|-|
-|![Purple in a colour picker with its H value 270 selected.](https://user-images.githubusercontent.com/29710355/162552090-57011aeb-8b97-45e6-a96c-d13287761cf8.png)|![Screenshot of piOS Discord Theme where all colour accents are purple.](https://user-images.githubusercontent.com/29710355/162551985-ed568020-7f12-4300-ad31-0c5a66be4645.png)|
+| Color picker                                                                                                                                                       | Result                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Purple in a colour picker with its H value 270 selected.](https://user-images.githubusercontent.com/29710355/162552090-57011aeb-8b97-45e6-a96c-d13287761cf8.png) | ![Screenshot of piOS Discord Theme where all colour accents are purple.](https://user-images.githubusercontent.com/29710355/162551985-ed568020-7f12-4300-ad31-0c5a66be4645.png) |
 
 ### CRT overlay
 Adds CRT monitor style overlay to the whole window.
